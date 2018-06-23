@@ -1,0 +1,11 @@
+Additional Functionalities:
+
+1. Take the input from an API instead of a hard coded JSON file.
+2. Convert it into a webapp.
+
+
+Useful resources:
+1. https://www.dataquest.io/blog/python-api-tutorial/
+2. https://stackoverflow.com/questions/11039178/is-there-any-free-online-dictionary-api-json-xml-with-multiple-languages-to-ch
+3. https://www.dictionaryapi.com/register/index.htm
+4. https://medium.com/@martin.breuss/finding-a-useful-dictionary-api-52084a01503d
